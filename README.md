@@ -14,7 +14,19 @@
   </a>
 </div>
 
-<!---
-dev-lis/dev-lis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-lis&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+
+### :man_technologist: About Me:
+iOS Developer from Sibirian.
+
+---
+
+### :hammer_and_wrench: Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+</div>

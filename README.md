@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me:
-iOS Developer from Sibirian.
+iOS Developer from Siberia.
 
 ---
 
